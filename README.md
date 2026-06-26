@@ -1,0 +1,1 @@
+Built a C-based astronomy calculator that computes Julian Date, local sidereal time, and the Sun’s position from observer date, time, and location, then uses 3D matrix rotations to transform equatorial coordinates into horizontal coordinates and classify daylight, civil twilight, nautical twilight, and astronomical twilight.
